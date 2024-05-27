@@ -82,3 +82,7 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+/*When entering city name this wil not be none so in the beginning it will be none so you will not see a default city */
+.weather{
+    display: none;
+}
